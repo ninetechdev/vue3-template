@@ -1,6 +1,8 @@
 {
   "name": "vue3-template",
   "version": "0.0.0",
+  "description": "",
+  "author": "",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
